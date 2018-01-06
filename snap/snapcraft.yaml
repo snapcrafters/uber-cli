@@ -8,7 +8,7 @@ description: |
   Get price estimates:-
     $ uber price -s 'start address' -e 'end address'
 
-grade: devel
+grade: stable
 confinement: strict
 
 apps:
