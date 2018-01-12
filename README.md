@@ -1,8 +1,8 @@
 <h1 align="center">
-  Uber
+  uber-cli
 </h1>
 
-<p align="center"><b>This is the snap for uber</b>, <i>"Check uber timings and prices"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for uber-cli</b>, <i>"Check Uber timings and prices"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
@@ -13,11 +13,11 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install uber --channel=beta
+    sudo snap install uber-cli --channel=beta
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
-![uber](https://github.com/daniellimws/uber-cli/raw/master/screenshot/uber.png?raw=true "uber")
+![uber-cli](https://github.com/snapcrafters/uber-cli/raw/master/screenshot/uber.png?raw=true "uber-cli")
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
