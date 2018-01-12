@@ -1,18 +1,18 @@
-name: uber
+name: uber-cli
 version: git
 summary: Uber command line tool
 description: |
   Get time to pickup estimates:-
-    $ uber time 'pickup address here'
+    $ uber-cli time 'pickup address here'
 
   Get price estimates:-
-    $ uber price -s 'start address' -e 'end address'
+    $ uber-cli price -s 'start address' -e 'end address'
 
 grade: stable
 confinement: strict
 
 apps:
-    uber:
+    uber-cli:
         command: uber
         plugs:
             - network
