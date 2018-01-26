@@ -20,7 +20,7 @@ apps:
 parts:
   uber:
     plugin: nodejs
-    node-engine: '9.3.0'
+    node-engine: '8.9.4'
     source: https://github.com/jaebradley/uber-cli.git
     build-packages:
       - make
